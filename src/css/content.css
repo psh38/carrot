@@ -1,0 +1,7 @@
+/* prd-list */
+.prd-list {margin-top:30px;}
+.prd-list > li {position:relative; margin-top:30px;}
+.prd-list .block {display:flex; flex-wrap:wrap;}
+.prd-list .img-area {width:60px; height:60px; margin-right:20px; border:1px solid red;}
+.prd-list .num-list {width:100%; text-align:right;}
+.prd-list .btn-opt {position:absolute; top:0; right:0;}

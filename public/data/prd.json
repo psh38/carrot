@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "상품명 1",
+    "image": "/path/to/image1.jpg",
+    "info1": "상품정보1",
+    "info2": "상품정보2",
+    "price": 1000,
+    "comments": 10,
+    "likes": 2
+  },
+  {
+    "id": 2,
+    "name": "상품명 2",
+    "image": "/path/to/image2.jpg",
+    "info1": "상품정보3",
+    "info2": "상품정보4",
+    "price": 2000,
+    "comments": 5,
+    "likes": 3
+  },
+  {
+    "id": 3,
+    "name": "상품명 3",
+    "image": "/path/to/image3.jpg",
+    "info1": "상품정보5",
+    "info2": "상품정보6",
+    "price": 3000,
+    "comments": 8,
+    "likes": 1
+  }
+]
